@@ -1,0 +1,9 @@
+streamlit>=1.50
+pandas>=2.2
+numpy>=1.26
+requests>=2.31
+yfinance>=0.2.66
+plotly>=5.24
+Pillow>=10.0
+openai>=1.100
+st-img-pastebutton==0.0.6
